@@ -1,0 +1,14 @@
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\bin\Debug\net8.0\Ternary Converter.exe
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\bin\Debug\net8.0\Ternary Converter.deps.json
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\bin\Debug\net8.0\Ternary Converter.runtimeconfig.json
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\bin\Debug\net8.0\Ternary Converter.dll
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\bin\Debug\net8.0\Ternary Converter.pdb
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\Ternary Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\Ternary Converter.AssemblyInfoInputs.cache
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\Ternary Converter.AssemblyInfo.cs
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\Ternary Converter.csproj.CoreCompileInputs.cache
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\Ternary Converter.dll
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\refint\Ternary Converter.dll
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\Ternary Converter.pdb
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\Ternary Converter.genruntimeconfig.cache
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Ternary Converter\obj\Debug\net8.0\ref\Ternary Converter.dll
